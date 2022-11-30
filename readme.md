@@ -1,4 +1,4 @@
-# SIMPLE - PHP OOP MVC
+# SIMPLE - PHP MVC OOP
 
 Here is very simple sample blog project with PHP OOP using MVC Design Pattern to help for those
 who is learning PHP and want to know who to how to build project using PHP OOP MVC Design Pattern.
@@ -40,13 +40,13 @@ __Detail Post__
 - config `core/config.php`
 ```
 // Application 
-define('APP_URL', 'http://localhost/simple-php-oop-mvc-example/pubic');
+define('APP_URL', 'http://localhost/simple-php-mvc-oop/pubic');
 
 // database
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
 define('DB_PASS', '');
-define('DB_NAME', 'phpoopmvc');
+define('DB_NAME', 'simple_php_mvc_oop');
 ```
 - composer install
 - import db.sql
