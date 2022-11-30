@@ -46,7 +46,7 @@ define('APP_URL', 'http://localhost/simple-php-oop-mvc-example/pubic');
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
 define('DB_PASS', '');
-define('DB_NAME', 'php_oop_mvc');
+define('DB_NAME', 'phpoopmvc');
 ```
 - composer install
 - import db.sql
