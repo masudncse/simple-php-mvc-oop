@@ -20,7 +20,7 @@ __Detail Post__
 ### Knowleadge
 
 - Apache setting (.htaccess)
-- Mysql
+- MySql
 
 ### Using PHP functions 
 
